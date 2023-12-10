@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="logo.png" alt="Tech-Innovatorz Logo" width="200">
+  <img src="![2023-12-02 (6)](https://github.com/Tech-Innovatorz/.github/assets/69115355/caa79942-369a-460b-ac05-b42d8e436d5e)" alt="Tech-Innovatorz Logo" width="200">
 </p>
 
-<h1 align="center">Tech-Innovatorz</h1>
+<h1 align="center">Mission-Signify</h1>
 
 <div align="center">
 
@@ -12,9 +12,9 @@
 
 </div>
 
-Welcome to Tech-Innovatorz!
+Welcome to Mission-Signify!
 
-Tech-Innovatorz is an open-source organization dedicated to advancing the field of machine learning through innovative projects. Our current focus is on developing a machine learning project for **spontaneous gesture detection**. We believe that this project has the potential to make a significant impact on various applications, from human-computer interaction to accessibility.
+Mission-Signify is an open-source organization dedicated to advancing the field of machine learning through innovative projects. Our current focus is on developing a machine learning project for **spontaneous gesture detection**. We believe that this project has the potential to make a significant impact on various applications, from human-computer interaction to accessibility.
 
 ## 🚀 Project Overview
 
